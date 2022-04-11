@@ -29,3 +29,11 @@ https://forms.gle/wLKYb5T6rbM2MKBH7
 
 Presensi Pertemuan keempat
 https://forms.gle/HTgACDvARU5nFGXp6
+
+# Other
+
+Background Zoom Meeting
+https://drive.google.com/file/d/15I5Vt2Gs6_n4ubShRKRS9dKiVDTvRv5A/view?usp=sharing
+
+Drive Rekap File Materi Live Session
+https://drive.google.com/drive/folders/1swCo-LaxUb9JnOkuKtZ3fNxlM6ant_MV
