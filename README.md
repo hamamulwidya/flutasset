@@ -9,7 +9,7 @@ https://youtu.be/Dv1Y7n9rUaU
 
 Link Video Step by Step Portofolio Aplikasi
 https://youtube.com/playlist?list=PL6Hec7zwKvP9eo67OZxRxSttY54_DlK7Z (Youtube)
-https://drive.google.com/file/d/1V8jo8PaNiFSbx4c-StmhhsF-mwVPP-zg/view?usp=sharing (Drive)
+https://drive.google.com/drive/folders/1Pr8rVoo7NYobp2NNwp_dRYH53ZxkxWwy (Drive)
 
 Link Module Step by Step Portofolio Aplikasi
 https://docs.google.com/document/d/1Khyvl3Q5hQbW0jmifmG3J2iXrkF6nNuJQWwAJznAiz0/edit?usp=sharing
