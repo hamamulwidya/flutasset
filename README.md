@@ -1,6 +1,6 @@
 # Assets Latihan soal
 
-Flutter Project pindah ke https://github.com/hamamulwidya/git_intro
+Flutter Project pindah ke git@github.com:hamamulwidya/edspert-latsol.git
 
 Link Rekaman Pembelajaran
 https://youtu.be/Dv1Y7n9rUaU
@@ -37,3 +37,4 @@ https://drive.google.com/file/d/15I5Vt2Gs6_n4ubShRKRS9dKiVDTvRv5A/view?usp=shari
 
 Drive Rekap File Materi Live Session
 https://drive.google.com/drive/folders/1swCo-LaxUb9JnOkuKtZ3fNxlM6ant_MV
+https://drive.google.com/drive/folders/1gUFeFolOA74qOzy84_ysXPM5OX5mVOJY?usp=sharing
