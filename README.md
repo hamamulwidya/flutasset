@@ -1,6 +1,8 @@
 # Assets Latihan soal
 
-Flutter Project pindah ke git@github.com:hamamulwidya/edspert-latsol.git
+Flutter Project pindah ke repo
+https://github.com/hamamulwidya/edspert-latsol.git (https)
+git@github.com:hamamulwidya/edspert-latsol.git (ssh)
 
 Link Rekaman Pembelajaran
 https://youtu.be/Dv1Y7n9rUaU
