@@ -37,6 +37,9 @@ https://forms.gle/HTgACDvARU5nFGXp6
 Presensi Pertemuan kelima
 https://forms.gle/kFnzBDQ8KTdBMirB6
 
+Presensi Pertemuan keenam
+https://forms.gle/qEAeS8GkGPcrVntF8
+
 # Other
 
 Background Zoom Meeting
