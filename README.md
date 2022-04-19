@@ -4,8 +4,7 @@ Flutter Project pindah ke repo
 https://github.com/hamamulwidya/edspert-latsol.git (https)
 git@github.com:hamamulwidya/edspert-latsol.git (ssh)
 
-Link Rekaman Pembelajaran
-https://youtu.be/Dv1Y7n9rUaU
+Link Rekaman Pembelajaran - Playlist https://www.youtube.com/playlist?list=PL6Hec7zwKvP9nJLNZKz9Nocjt58CEHxKS
 
 Link Video Step by Step Portofolio Aplikasi
 https://youtube.com/playlist?list=PL6Hec7zwKvP9eo67OZxRxSttY54_DlK7Z (Youtube)
